@@ -1,7 +1,7 @@
 ### Olá, eu sou Diego Everton 👋
 
 
-- 🔭 Hoje esou trabalhando como analista de dados e construção de banco de dados
+- 🔭 Hoje esou trabalhando como analista de dados e construção de soluções para bancos de dados
 - 🌱 Estudando Python, SQL e R
 
 <div>
